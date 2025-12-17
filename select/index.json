@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ビルゲイツ",
+  "base_artist": "AOTO",
+  "createdAt": "2025-12-17T09:14:28.110765Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ビルゲイツ",
+      "artist": "AOTO",
+      "has_synced": false,
+      "path": "select/pl_01_ビルゲイツ_AOTO.txt"
+    }
+  ]
+}
